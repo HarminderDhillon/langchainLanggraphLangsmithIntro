@@ -1,4 +1,4 @@
-# LangChain Arithmetic Agent
+# Langchain Langgraph Langsmith Intro Arithmetic Agent
 
 A TypeScript-based arithmetic agent using LangChain.js and LangGraph for performing sequential arithmetic operations with OpenAI function calling.
 
